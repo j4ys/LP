@@ -1,0 +1,21 @@
+/* Program to add line numbers 
+ to a given file*/
+ int b =10
+ data = {}
+  
+/* simple name definitions to simplify 
+the scanner specification name  
+definition of line*/
+
+ /* whenever a line is encountered increment count*/
+  
+ /* 10 specifies the padding from left side to  
+                    present the line numbers*/
+   
+ /* yytext The text of the matched pattern is stored 
+                           in this variable (char*)*/
+  /* yyin points to the file  
+                                   testtest.c and opens it 
+                                   in read mode.*/
+  
+   // The function that starts the analysis. 
