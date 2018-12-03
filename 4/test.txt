@@ -1,0 +1,4 @@
+this is test file 
+with test text
+you should not read this file
+it is not encrypted
